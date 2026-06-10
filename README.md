@@ -7,8 +7,8 @@
   <h3>IT Professional • Software Developer • Lifelong Learner</h3>
   <p>Based in Nairobi, Kenya 🇰🇪</p>
 
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/KamaraDenis">
+    <img src="https://komarev.com/ghpvc/?username=KamaraDenis&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
   <a href="https://www.linkedin.com/in/denis-mariga-35a719344/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -51,12 +51,12 @@ const denis = {
 ## GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="Denis's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KamaraDenis&show_icons=true&theme=tokyonight&hide_border=true" alt="Denis's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamaraDenis&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=KamaraDenis&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </div>
 
 ## Connect With Me
@@ -77,11 +77,4 @@ const denis = {
   <p>Thanks for visiting. Explore my repositories and leave a ⭐ on anything you find useful.</p>
 </div>
 
-<!--
-SETUP:
-1. Replace every YOUR_GITHUB_USERNAME with your exact GitHub username.
-2. Replace YOUR_EMAIL_ADDRESS with your professional email address.
-3. Keep this README.md and the assets folder together in a public repository
-   whose name exactly matches your GitHub username.
-4. Edit the tools list above if it does not accurately reflect your current stack.
--->
+
